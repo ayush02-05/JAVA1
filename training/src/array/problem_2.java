@@ -26,7 +26,6 @@ public class problem_2 {
         //         compare =false;
         //     }
         // }
-
         // if(compare)
         // {
         //     System.out.println("both array are equal");
@@ -38,7 +37,6 @@ public class problem_2 {
         // int[] a1 = {1,2,3,4};
         // int[] a2 = {5,6,7,8};
         // int[] merge = new int[(a1.length + a2.length)];
-
         // for(int i=0 ;i<a1.length;i++)
         // {
         //     merge[i] =a1[i];
