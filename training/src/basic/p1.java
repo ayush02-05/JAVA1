@@ -1,8 +1,9 @@
 package basic;
-import java.util.Scanner;
+// import java.util.Scanner;
 public class p1 {
     public static void main(String[] args) {
-        Scanner in =new Scanner(System.in);
+        // Scanner in =new Scanner(System.in);
+        
         // // 1. Check Even or Odd using if-else
         // int n = 13;
         // if(n%2==0)  System.out.println(n+" :is even");
