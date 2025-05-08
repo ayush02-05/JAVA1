@@ -18,6 +18,6 @@ class student{
 public class hello {
     public static void main(String[] args) {
         student obj = new student(3,4);
-        // System.out.println(obj);
+        // System.out.println(obj);                                                                                                                                                      
     }
 }
