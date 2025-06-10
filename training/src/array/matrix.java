@@ -25,6 +25,5 @@ public interface matrix {
             System.out.println();
         }
 
-        
     }
 }
